@@ -73,3 +73,10 @@ workspace/*
 !workspace/main.py
 .swp
 John Lennon - Synastry Chart.svg
+
+# Local venv
+.venv/
+
+# Env files
+.env
+.env.*
